@@ -30,3 +30,4 @@ lostNumbers = [1,2,3,4,5]
 -- maximum [1,9,2,3,4] 
 -- sum [5,2,1,6,3,2,5,7]
 -- product [6,2,1,2] 
+-- elem 1 [1,2,3] or1 `elem` [1,2,3]  (infix way)
